@@ -1,4 +1,4 @@
-# Sharpening my programming skills
+## Sharpening my programming skills
 
 <img align="right" alt="mbtoolbox" src="keep_tools_sharp.png" />
 
